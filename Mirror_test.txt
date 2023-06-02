@@ -1,0 +1,1 @@
+This is a sample test file to check if mirroring is working in OCI Repository..
